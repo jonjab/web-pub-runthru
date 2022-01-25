@@ -35,3 +35,5 @@ Hello, [this is a link](https://ucsbcarpentry.github.io), while ~~this text is s
 1. No. This is all 1. markdown
 1. Because I don't want to manyually change.
 1. But github editor helps me.
+
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
