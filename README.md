@@ -13,7 +13,15 @@ are caused by two trailing spaces at the end of a line.(one spaces)
 
 *so people who say two spaces after a sentence doesn't matter any more are WRONG!*
 
+### Again
+Soft line
+break with a *carriage return*
+
+2-space hard line  
+break
+
 ### Carpentries Lesson Programs:
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
