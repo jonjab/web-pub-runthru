@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: home
 title: Building Websites in Github 
 ---
 
