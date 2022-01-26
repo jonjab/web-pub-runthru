@@ -2,7 +2,6 @@
 lesson-example: "https://carpentries.github.io/lesson-example/"
 layout: default
 ---
-{% include navigation.html %}
 
 # About my website
 This website was created on github with Jekyll and YAML.
@@ -17,4 +16,3 @@ Here's a [quick link to another Carpentry lesson]({{page.lesson-example}}), call
 
 [Go Home](.)
 
-{% include footer.html %}
