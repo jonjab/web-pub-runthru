@@ -1,9 +1,9 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
 layout: default
+title: About my website
 ---
 
-# About my website
 This website was created on github with Jekyll and YAML.
 
 YAML is yet another markdown language. Because nerds ~~think they'~~ are funny.
