@@ -12,4 +12,4 @@ This web page loaded at: {{ site.time }}
 ## Contact us
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [@labratorybot](https://twitter.com/labratorybot)
+- Twitter: [@libratorybot](https://twitter.com/libratorybot)
