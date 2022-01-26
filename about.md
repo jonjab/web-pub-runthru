@@ -1,6 +1,8 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
+{% include navigation.html %}
+
 # About my website
 This website was created on github with Jekyll and YAML.
 
@@ -14,7 +16,4 @@ Here's a [quick link to another Carpentry lesson]({{page.lesson-example}}), call
 
 [Go Home](.)
 
-## Contact us
-
-- Email: [{{ site.email }}](mailto:{{ site.email }})
-- Twitter: [@libratorybot](https://twitter.com/libratorybot)
+{% include footer.html %}
