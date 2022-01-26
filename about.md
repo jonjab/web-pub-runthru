@@ -3,4 +3,13 @@ This website was created on github with Jekyll and YAML.
 
 YAML is yet another markdown language. Because nerds ~~think they'~~ are funny.
 
-[Go Home](../)
+{{ site.description }}
+
+This web page loaded at: {{ site.time }}
+
+[Go Home](.)
+
+## Contact us
+
+- Email: [{{ site.email }}](mailto:{{ site.email }})
+- Twitter: [@labratorybot](https://twitter.com/labratorybot)
