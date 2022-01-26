@@ -9,3 +9,5 @@ This website was created to practice for a Carpentry workshop at the UCSB Librar
 [About this website](about)
 
 Have any questions? [Let us know!](mailto:{{ site.email }})
+
+{% include footer.html %}
