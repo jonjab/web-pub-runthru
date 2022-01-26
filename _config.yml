@@ -2,3 +2,17 @@ description: "This project develops training materials for reseachers wanting to
 websites in GitHub with GitHub Pages."
 email: "collaboratory@library.ucsb.edu"
 twitter: "https://twitter.com/libratorybot"
+
+team_members:
+  -
+    name: "Amanda Ho"
+    role: "project lead"
+    start_date: "2016-02-01"
+  -
+    name: "Kristi Liu"
+    role: maintainer
+    start_date: "2018-03-15"
+  -
+    name: "Jon Jablonski"
+    role: editor
+    start_date: "2017-12-01"
