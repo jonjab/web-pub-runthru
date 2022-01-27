@@ -15,6 +15,8 @@ The project is led by {{ lead.name }}.
 
 [About this website](about)
 
+[Read our lab diary](blogposts)
+
 Have any questions? [Let us know!](mailto:{{ site.email }})
 
 
