@@ -2,6 +2,11 @@ description: "This project develops training materials for reseachers wanting to
 websites in GitHub with GitHub Pages."
 email: "collaboratory@library.ucsb.edu"
 twitter: "https://twitter.com/libratorybot"
+collections:
+ blogposts:
+   output: true
+ calendar-events:
+   output: true
 
 team_members:
   -
