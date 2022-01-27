@@ -8,6 +8,11 @@ This website was created to practice for a Carpentry workshop at the UCSB Librar
 
 {{site.description}}
 
+{% assign lead = site.team_members | where:"role", "project lead" | first
+ %}
+The project is led by {{ lead.name }}.
+[See our full team](about#team)
+
 [About this website](about)
 
 Have any questions? [Let us know!](mailto:{{ site.email }})
