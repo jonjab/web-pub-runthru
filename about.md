@@ -20,6 +20,8 @@ This is the repo for the Web publishing with GitHub Pages Workshop site: ucsbcar
 
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
 
+## 
+
 ## Cite us
 
 You can cite the Carpentries project as:
