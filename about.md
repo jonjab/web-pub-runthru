@@ -16,6 +16,12 @@ Here's a [quick link to another Carpentry lesson]({{page.lesson-example}}), call
 
 This is the repo for the Web publishing with GitHub Pages Workshop site: ucsbcarpentry.github.io/2022-01-28-ucsb-webpub-online
 
+## Our Team
+ The following people are members of our research team:
+ {% for team_member in site.team_members %}
+ - {{ team_member.name }}, role: {{ team_member.role }}
+ {% endfor %}
+
 ## Funders
 
 We gratefully acknowledge funding from the XYZ Founding Council, under grant number 'abc'.
